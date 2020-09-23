@@ -3,7 +3,7 @@ Source code for the LeukemiaSIM simlulations: Red Blood Cell Oxygenation Game an
 
 To modify the programs Unity version 2019.1.12 https://unity3d.com/get-unity/download and Steam VR https://store.steampowered.com/app/250820/SteamVR/ are required. Users will also require VR hardware including a Vive Pro headset and a computer with a graphics card with DX10 capabilities. Once software and hardware requirements are met, players can run and modify the systems within the Unity development kit by selecting either the "OriginalSimulation" or "UpdatedSimulation" folder in the game selection window of Unity. 
 
-Pre-compiled games that do not require a Unity download can also be downloaded from:
+Pre-compiled original and updated games that do not require a Unity licence can respectfully be downloaded from: https://ebrintn.itch.io/leukemiasim-originalversion and 
 
 
 Game music from: https://www.bensound.com/
